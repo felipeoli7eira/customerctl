@@ -1,7 +1,6 @@
 export default function Home() {
   return (
-    <div className="">
-      app
+    <div className="container mx-auto p-4">
     </div>
   );
 }
